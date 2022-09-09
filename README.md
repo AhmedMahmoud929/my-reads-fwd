@@ -10,7 +10,7 @@
 
 ## Install the project
 
-open terminal in your directory and type  `git clone https://github.com/Muhammed-Hossam/my-reads-app.git`
+open terminal in your directory and type  `git clone https://github.com/AhmedMahmoud929/reads-app-fwd.git`
 
 ## Launch the project
 
